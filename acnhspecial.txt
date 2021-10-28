@@ -1,0 +1,21 @@
+Tom Nook : 5/30 : Raccoon : Male : Neutral : Mortgage : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Timmy : 6/7 : Raccoon : Male : Neutral : Store Clerk : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Tommy : 6/7 : Raccoon : Male : Neutral : Store Clerk : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Isabelle : 12/20 : Dog : Female : Friendly : Secretary : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+K.K. Slider : 8/23 : Dog : Male : Mellow : Musician : Saturday
+Wisp : 2/26 : Spirit : Male : Lonely : Beggar : Wednesday, Sunday
+Blathers : 9/24 : Owl : Male : Professional : Museum Director : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Celeste : 9/7 : Owl : Female : Sweet : Shopkeeper : Friday, Saturday, Sunday
+Kicks : 11/30 : Skunk : Male : Humble : Shoe shiner : Tuesday
+Harvey : 8/2 : Dog : Male : Chill : Photographer : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Mabel : 5/22 : Hedgehog : Female : Charismatic : Shopkeeper : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Sable : 11/22 : Hedgehog : Female : Shy : Shopkeeper : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Label : 10/31 : Hedgehog : Female : Stylish : Personal Stylist : Friday
+Saharah : 11/10 : Camel : Male : Calm : Salesman : Saturday
+Gulliver : 5/25 : Seagull : Male : Ditzy : Sailor : Thursday
+C.J. : 3/7 : Beaver : Male : Neutral : Fisher : Sunday
+Flick : 5/10 : Chameleon : Male : Edgy : Bug Catcher : Saturday
+Daisy Mae : 3/30 : Boar : Female : Sweet : Stock Broker : Sunday
+Orville : 10/2 : Dodo : Male : Neutral : Pilot : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+Wilbur : 7/4 : Dodo : Male : Neutral : Pilot : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+name : birthday : species : gender : personality : profession : workday
